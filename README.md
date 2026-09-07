@@ -71,9 +71,6 @@ This makes the lookup more flexible when the position of the required column cha
 
 The objective of this exercise was to strengthen my Excel fundamentals and understand how lookup functions can be applied to real-world data analysis tasks.
 
-## 📁 Project File
-
-The Excel workbook containing the practice exercises is available in the `Excel` folder.
 
 ## 🚀 Next Steps
 
